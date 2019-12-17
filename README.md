@@ -1,6 +1,17 @@
-### Design
+## Web Design
 
-# Visual Elements of User Interface Design
+[Design of Website](http://example.com/ "Необязательная подсказка")
+
+**Course of HIGHLIGHTS Shoool (https://vk.com/web_and_graph)**
+
+
+## App Design
+
+[Design of Website](http://example.com/ "Необязательная подсказка")
+
+**Coursera course Visual Elements of User Interface Design**
+
+### Visual Elements of User Interface Design
 
 Project on Coursera course Visual Elements of User Interface Design author California Institute of the Arts.
 There are 4 steps of a prototype: text describing, mood board to collect ideas of a project, 
