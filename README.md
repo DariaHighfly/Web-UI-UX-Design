@@ -1,13 +1,13 @@
 ## Web Design
 
-[Design of Website](https://github.com/DariaHighfly/Web-UI-UX-Design/tree/master/WebDesign)
+[Design of the Website](https://github.com/DariaHighfly/Web-UI-UX-Design/tree/master/WebDesign)
 
 **Course of HIGHLIGHTS Shoool (https://vk.com/web_and_graph)**
 
 
 ## App Design
 
-[Design of Website](https://github.com/DariaHighfly/Web-UI-UX-Design/blob/master/HeartMelody.pdf)
+[Design of the App](https://github.com/DariaHighfly/Web-UI-UX-Design/blob/master/HeartMelody.pdf)
 
 **Coursera course Visual Elements of User Interface Design**
 
